@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayoub 👋</h1>
 
 <p align="center">
-  Computer science student at <b>ESI</b> · I build full-stack apps, IoT systems and ML experiments, from firmware to frontend.
+  Computer science student at <b>ESI</b> · I build full-stack apps and ML experiments, from backend to frontend.
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 
 ## 🚀 Featured projects
 
-### 🌱 SAHLA Farm: smart agriculture system
-An end-to-end smart farming platform. I led the architecture, the embedded firmware, the 3D-printed enclosure design and the full automation pipeline.
+### 🌱 SAHLA Farm: smart agriculture platform
+An end-to-end smart farming platform. I led the architecture and the full automation pipeline.
 
-- **Hardware:** ESP32 and Raspberry Pi for sensing and control
-- **Automation:** Home Assistant integration and an 11-module AI pipeline built in n8n
+- **Automation:** an 11-module AI pipeline built in n8n
 - **Apps:** React dashboard and React Native mobile app
 - **Repos:** [`SAHLA_FARM`](https://github.com/Iyuu8/SAHLA_FARM) · [`SAHLA_FARM_FRONT`](https://github.com/Iyuu8/SAHLA_FARM_FRONT)
 
@@ -38,14 +37,12 @@ An indoor mapping and navigation platform where **humans and AI agents edit the 
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,react,js,python,java,raspberrypi,git,github" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,react,js,python,java,git,github" alt="Tech stack icons" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Plasmo-000000?logo=googlechrome&logoColor=white" alt="Plasmo" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?logo=homeassistant&logoColor=white" alt="Home Assistant" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
@@ -53,6 +50,6 @@ An indoor mapping and navigation platform where **humans and AI agents edit the 
 
 ## 📫 Get in touch
 
-I'm open to internships, collaborations and interesting problems, especially in embedded systems / IoT, full-stack development and ML.
+I'm open to internships, collaborations and interesting problems, especially in full-stack development and ML.
 
 **Email:** anesbenaziza19@gmail.com · **LinkedIn:** [ayoub-bena](https://www.linkedin.com/in/ayoub-bena/)
