@@ -34,15 +34,14 @@ An indoor mapping and navigation platform where **humans and AI agents edit the 
 
 ---
 
-## 🛠️ Tech stack
+<h2 align="center">🛠️ Tech stack</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,symfony,mysql,react,js,python,java,git,github" alt="Tech stack icons" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Plasmo-000000?logo=googlechrome&logoColor=white" alt="Plasmo" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
